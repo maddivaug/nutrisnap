@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
         <p><strong>Last Updated:</strong> 19 July 2025</p>
 
         <p>
-          Your privacy is important to us. This Privacy Policy explains how <strong>[Tên Ứng Dụng]</strong> (“we”, “our”, or “us”) collects, uses, and protects your information when you use our mobile app, website, and related services (the "Service").
+          Your privacy is important to us. This Privacy Policy explains how <strong>NutriSnap</strong> (“we”, “our”, or “us”) collects, uses, and protects your information when you use our mobile app, website, and related services (the "Service").
         </p>
 
         <p>By using the Service, you agree to the practices described in this policy.</p>
