@@ -37,6 +37,17 @@ export default function TermsAndConditions() {
           <li>No refunds for partial use unless required by law.</li>
         </ul>
 
+        <h3>Subscription Details</h3>
+        <ul>
+          <li><strong>Title of auto-renewing subscription:</strong> NutriSnap Get Premium</li>
+          <li><strong>Length of subscription:</strong> Weekly Premium</li>
+          <li><strong>Price of subscription:</strong> $2.99/month</li>
+          <li><strong>Length of subscription:</strong> Monthly Premium</li>
+          <li><strong>Price of subscription:</strong> $5.99/month</li>
+          <li><strong>Length of subscription:</strong> Yearly Premium</li>
+          <li><strong>Price of subscription:</strong> $15.99/month</li>
+        </ul>
+
         <h2>4. User Conduct</h2>
         <p>You agree not to:</p>
         <ul>
