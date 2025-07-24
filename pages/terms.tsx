@@ -40,11 +40,11 @@ export default function TermsAndConditions() {
         <h3>Subscription Details</h3>
         <ul>
           <li><strong>Title of auto-renewing subscription:</strong> NutriSnap Get Premium</li>
-          <li><strong>Length of subscription:</strong> Weekly Premium</li>
+          <li><strong>3.1. Length of subscription:</strong> Weekly Premium</li>
           <li><strong>Price of subscription:</strong> $2.99/month</li>
-          <li><strong>Length of subscription:</strong> Monthly Premium</li>
+          <li><strong>3.2. Length of subscription:</strong> Monthly Premium</li>
           <li><strong>Price of subscription:</strong> $5.99/month</li>
-          <li><strong>Length of subscription:</strong> Yearly Premium</li>
+          <li><strong>3.3. Length of subscription:</strong> Yearly Premium</li>
           <li><strong>Price of subscription:</strong> $15.99/month</li>
         </ul>
 
